@@ -1,0 +1,13 @@
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.deps.json
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.runtimeconfig.json
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/sqlapp.pdb
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/System.Data.SqlClient.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-arm64/native/sni.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x64/native/sni.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win-x86/native/sni.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/abidfs/Projects/az-204/Resources/Building an Application that connects to the SQL database/sqlapp/sqlapp/obj/Release/net6.0/PubTmp/Out/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
